@@ -20,7 +20,7 @@ Build an application that combines a gentle UX/UI, covers some math operations, 
 - [ ] Allow users to input numbers (0-9) and add a decimal point (.).
 - [ ] Implement basic math operations like addition, subtraction, multiplication, division, and percentage.
 - [ ] Implement a clear (C) button that deletes the existing calculation and an AC button that resets all operations to 0.
-- [ ] Show previous operations (e.g. 12 +) above the number input when using a math operation.
+- [ ] Show previous operation (e.g. 12 x) above the number input when using a math operation.
 - [ ] Implement Light & Dark Mode to adjust the color theme based on user preference.
 - [ ] Handle edge cases such as not allowing division by 0 or leading zeros.
 
