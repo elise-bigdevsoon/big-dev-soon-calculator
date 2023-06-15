@@ -2,7 +2,7 @@
 
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
-Build an application that combines a gentle UX/UI, covers some math operations, and includes a light/dark mode toggle. Challenge yourself to create a functional and visually pleasing Calculator.
+Build an application to cover math operations with dark/light modes.
 
 ## How to start
 

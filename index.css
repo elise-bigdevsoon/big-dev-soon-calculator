@@ -1,0 +1,19 @@
+/* This is an example CSS file, feel free to remove/edit it anytime */
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  text-align: center;
+}
+
+.footer a {
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.footer span {
+  font-size: 14px;
+}
