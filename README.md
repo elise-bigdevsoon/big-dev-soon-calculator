@@ -2,7 +2,7 @@
 
 Application that covers math operations with dark/light modes.
 
-![Calculator Project preview image](./project-preview.png)
+![Calculator Project preview image](https://github.com/elise-bigdevsoon/big-dev-soon-calculator/blob/main/project-preview.png)
 
 ## Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
