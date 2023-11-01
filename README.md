@@ -36,21 +36,26 @@ Construct a sleek and user-friendly **Calculator** application that's not only a
 
 ## Project assets
 
-Depending on the mode you pick, different assets will be available:
+Each project comes with additional assets to aid your implementation:
 
-**Freerun Mode**: In this mode (costs 1 BigToken), most of the Frontend cards you will work on come with a unique screenshot reflecting the card's requirements. These visual aids guide you toward a closer representation of the project's intended design and specifications.
+**Starter Files**: Get started with project templates, assets, and resources to kickstart your development process. Simple HTML/CSS/JS files are included.
 
-**Speedrun Mode**: Access general project assets and the starter code. This mode swiftly challenges you, emphasizing the coding process over strict design adherence.
+**Project images**: Access a collection of a few chosen preview project images that can be used to enhance your project.
 
-**Additional Resource – Figma Design**: For those seeking a deeper dive, you have the option to download the Figma design (costs 3 BigTokens) in either Speedrun or Freerun mode. This design contains all visual states and a comprehensive Design System, ensuring your implementation is both consistent and on point. The "Download Figma design" button is available whenever you decide to elevate your project experience.
+**Unique Screenshots**: Most cards in the project come with unique screenshots that provide visual guidance for your project's design and requirements.
 
-## How to start
+Additionally, you have the option to download the comprehensive Figma Design for 3 BigTokens. This design includes all visual states and a robust Design System to ensure consistency and precision in your implementation. The "Download Figma design" button is available whenever you choose to elevate your project experience.
 
-1. Head over to the [project page](https://app.bigdevsoon.me/projects/calculator). Choose between Freerun or Speedrun mode, then click either the "Start Freerun" or "Start Speedrun" button.
-2. Familiarize yourself with the provided images in the "Assets" section. Optionally, you can download the starter code for the initial boilerplate.
-3. For a full project experience, consider downloading the Figma design.
-4. Dive deep into this `README.md`. It covers everything from implementation hints and project guidelines to how to submit your final piece.
-5. Get coding! Let your passion for learning and growing as a Big Developer fuel your journey. 🔥
+## Get started
+
+1. Click the "Start Project" button on the project's page in our app to begin your project.
+2. Explore the available project assets, including images, starter files, and unique card screenshots to understand the project's scope.
+3. For a comprehensive project experience, download the Figma design for 3 BigTokens.
+4. Configure your "Coding setup" using Glitch or GitHub if desired.
+5. Dive into the project details through the cards for a deeper understanding.
+6. Start coding using your preferred technologies.
+7. Refer to the documentation or ask for assistance if needed.
+8. Submit your solution, let it shine, and share it with other folks!
 
 ## Implementation
 
